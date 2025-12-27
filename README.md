@@ -80,7 +80,7 @@
    - 评审测试用例（最终）
    - 评审测试用例表格：[测试用例评审记录.xlsx](excel/额度申请测试用例.xlsx)
 2. 借款业务
-   -  测试用例表格：![流程图](screenshots/wechat_longscreenshot_2025-12-26_170940_360.png)
+   -  测试用例表格：![流程图](screenshots/wechat_longscreenshot_2025-12-27_101447_423.png)
 ## 测试范围
 ### 1. 前台功能测试
 - 用户注册/登录
